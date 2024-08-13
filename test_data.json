@@ -1,0 +1,26 @@
+{
+
+"test_data": {
+  "valid_login": {
+    "username": "newUsername",
+    "password": "newPassword"
+  },
+  "invalid_login": {
+    "username": "gfhdj",
+    "password": "fdjsbddj"
+  },
+  "cart_details": {
+    "name": "John",
+    "country": "ZAR",
+    "state": "GP",
+    "card": "627876324218",
+    "month": "Jan",
+    "year": "2022",
+    "category_url": "https://www.demoblaze.com/#",
+    "item_added_text": "Product added"
+  },
+  "valid_sign_up": {
+    "username": "dghsjkm",
+    "password": "dbjcskal"
+  }
+}}

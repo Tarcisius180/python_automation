@@ -1,0 +1,23 @@
+2024-08-01 15:57:33,995 - INFO - Initializing chrome browser
+2024-08-01 15:57:37,736 - INFO - Navigating to URL: https://www.demoblaze.com
+2024-08-01 15:57:37,742 - INFO - Attempting to select a category, a product in the category, enter details for order and getting order number
+2024-08-01 15:57:37,816 - INFO - Attempting to use https://www.demoblaze.com/#
+2024-08-01 15:57:37,826 - INFO - A category has been selected
+2024-08-01 15:57:47,616 - INFO - Cart test passed
+2024-08-01 15:57:47,617 - INFO - Closing browser
+2024-08-01 15:57:47,705 - INFO - Initializing chrome browser
+2024-08-01 15:57:50,782 - INFO - Navigating to URL: https://www.demoblaze.com
+2024-08-01 15:57:50,787 - INFO - Attempting sign up with username: invaliduser
+2024-08-01 15:57:55,542 - ERROR - Account with username invaliduser already exists.
+2024-08-01 15:57:55,795 - INFO - Closing browser
+2024-08-01 15:57:55,875 - INFO - Initializing chrome browser
+2024-08-01 15:57:58,448 - INFO - Navigating to URL: https://www.demoblaze.com
+2024-08-01 15:57:58,455 - INFO - Using valid login with username: newUsername
+2024-08-01 15:58:02,187 - INFO - Valid login test passed
+2024-08-01 15:58:02,188 - INFO - Closing browser
+2024-08-01 15:58:02,281 - INFO - Initializing chrome browser
+2024-08-01 15:58:04,875 - INFO - Navigating to URL: https://www.demoblaze.com
+2024-08-01 15:58:04,883 - INFO - Using invalid login with username: gfhdj
+2024-08-01 15:58:08,612 - INFO - login test completed
+2024-08-01 15:58:08,613 - INFO - Invalid login test passed
+2024-08-01 15:58:08,614 - INFO - Closing browser

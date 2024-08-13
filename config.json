@@ -1,0 +1,7 @@
+{
+  "browser": "chrome",
+  "headless": false,
+  "implicit": 10,
+  "url": "https://www.demoblaze.com"
+
+}
