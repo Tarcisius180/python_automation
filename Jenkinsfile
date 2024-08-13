@@ -4,7 +4,9 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                checkout scm
+                git branch: 'python_automation', // or whichever branch you're using
+                    credentialsId: 'github-ssh-key', // ID of your SSH key in Jenkins
+                    url: 'git@github.com:your-username/your-repo.git' // Replace with your repo's SSH URL
             }
         }
         
